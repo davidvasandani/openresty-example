@@ -1,3 +1,5 @@
+On a publicly accessible server
+
 ```
 docker build . -t openresty-example
 ```
